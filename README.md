@@ -4,6 +4,10 @@
 
 > Built as a portfolio project to mirror the exact skillset modern Data Insights & AI teams need: statistical/ML modeling, applied GenAI (RAG + function calling), and production-style pipeline thinking — applied to a realistic FMCG distribution scenario (regions, channels, SKUs).
 
+![RGM Copilot Demo](demo.gif)
+
+*The GenAI Copilot answering a live question — combining function calling (real model output) with RAG (grounded business context) to explain which product is most at risk of stocking out, and why.*
+
 ---
 
 ## Why this project exists
